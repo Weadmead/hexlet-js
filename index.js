@@ -1,3 +1,3 @@
-import { isEmpty } from "./src/index.js";
+import isEmpty from './src/index';
 
 isEmpty();
