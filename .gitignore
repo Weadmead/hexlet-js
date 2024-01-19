@@ -1,0 +1,116 @@
+# Dependencies #
+###############
+/node_modules
+/bower_components
+
+# Build outputs #
+#################
+/dist
+/tmp
+/out-tsc
+
+# Debug logs #
+###############
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Project configs #
+###################
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Editor directories and files #
+################################
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+*.swo
+*~
+
+# Operating System Files #
+##########################
+.DS_Store
+Thumbs.db
+
+# Build and test output #
+#########################
+/coverage
+/build
+
+# Misc #
+########
+*.log
+*.log.*
+*.tmp
+
+# Specific Front-end Tooling #
+###############################
+# Angular
+/angular
+/angular.json
+
+# React
+/react
+/react.js
+
+# Vue
+/vue
+/vue.js
+
+# Grunt Intermediate Storage #
+/.grunt
+
+# Bower dependency directory #
+/bower_components
+
+# JSPM packages #
+/jspm_packages
+
+# TypeScript v1 declaration files #
+typings/
+
+# Optional npm cache directory #
+.npm
+
+# Optional eslint cache #
+.eslintcache
+
+# parcel-bundler cache (https://parceljs.org/) #
+.cache
+.parcel-cache
+
+# next.js build output #
+.next
+out
+
+# nuxt.js build output #
+.nuxt
+dist
+
+# rollup.js build output #
+/rollup.config.js
+/rollup.config.ts
+
+# Storybook build outputs #
+/storybook-static
+
+# Gatsby files #
+/.cache/
+/public
+
+# VuePress build output #
+.vuepress/dist
+
+# Serverless directories #
+.serverless/
+
+# FuseBox cache #
+.fusebox/
