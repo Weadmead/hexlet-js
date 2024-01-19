@@ -1,3 +1,3 @@
-import _ from "lodash";
+import { isEmpty } from "./src/index.js";
 
-console.log(_.last(["one", "two"]));
+isEmpty();
